@@ -22,7 +22,7 @@
 
 ### Simple Architecture
 
-![Screenshot 2025-07-23 at 00.28.36.png](https://img.notionusercontent.com/s3/prod-files-secure%2F810a7467-b0b6-4699-a1b9-d61322144746%2F411aa2ab-68c3-40ab-8f1b-8029f187a7b1%2FScreenshot_2025-07-23_at_00.28.36.png/size/w=1420?exp=1754895910&sig=fDCN8uRfbSB-UwIKeN0P2If_sNBp6cJ-I749B1_q0jQ&id=2381f07b-36b0-80bc-b555-f8ec3ec8f898&table=block&userId=68b2fc3d-8d28-47eb-a949-98a40ce68389)
+![Screenshot 2025-07-23 at 00.28.36.png](https://img.notionusercontent.com/s3/prod-files-secure%2F810a7467-b0b6-4699-a1b9-d61322144746%2F411aa2ab-68c3-40ab-8f1b-8029f187a7b1%2FScreenshot_2025-07-23_at_00.28.36.png/size/w=1420?exp=1754898214&sig=Iss-lC2pdHpLR3AL0-TkMJmQNtynTyoujw-tGt-UB2k&id=2381f07b-36b0-80bc-b555-f8ec3ec8f898&table=block&userId=68b2fc3d-8d28-47eb-a949-98a40ce68389)
 
 ### 2. From Words to Numbers
 
