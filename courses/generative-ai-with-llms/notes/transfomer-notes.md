@@ -28,7 +28,7 @@
 
 First, the **Tokenizer** splits the sentence into sub-word pieces and gives each piece an ID.
 
-![Screenshot 2025-07-23 at 00.29.06.png](https://img.notionusercontent.com/s3/prod-files-secure%2F810a7467-b0b6-4699-a1b9-d61322144746%2F411aa2ab-68c3-40ab-8f1b-8029f187a7b1%2FScreenshot_2025-07-23_at_00.28.36.png/size/w=1420?exp=1754898214&sig=Iss-lC2pdHpLR3AL0-TkMJmQNtynTyoujw-tGt-UB2k&id=2381f07b-36b0-80bc-b555-f8ec3ec8f898&table=block&userId=68b2fc3d-8d28-47eb-a949-98a40ce68389)
+![Screenshot 2025-07-23 at 00.29.06.png](https://img.notionusercontent.com/s3/prod-files-secure%2F810a7467-b0b6-4699-a1b9-d61322144746%2F1321cdcb-eaba-4dc2-83c2-dfe4228f4d57%2FScreenshot_2025-07-23_at_00.29.06.png/size/w=1420?exp=1754897402&sig=VwZwjDkLqBOOLF1wf7beWj-tFOVxvQwAWkyEU7z2Ajw&wasReauthorized=true)
 
 ---
 
@@ -36,7 +36,7 @@ First, the **Tokenizer** splits the sentence into sub-word pieces and gives each
 
 Each ID is turned into a **vector** (embedding) and a **positional code** is added so order is not lost.
 
-![Screenshot 2025-07-23 at 00.29.31.png](https://img.notionusercontent.com/s3/prod-files-secure%2F810a7467-b0b6-4699-a1b9-d61322144746%2F1321cdcb-eaba-4dc2-83c2-dfe4228f4d57%2FScreenshot_2025-07-23_at_00.29.06.png/size/w=1420?exp=1754897402&sig=VwZwjDkLqBOOLF1wf7beWj-tFOVxvQwAWkyEU7z2Ajw&wasReauthorized=true)
+![Screenshot 2025-07-23 at 00.29.31.png](https://img.notionusercontent.com/s3/prod-files-secure%2F810a7467-b0b6-4699-a1b9-d61322144746%2F11a4ec69-55b8-4f4b-b670-4fd425090d71%2FScreenshot_2025-07-23_at_00.29.31.png/size/w=1420?exp=1754898461&sig=QdHLM-vv6IqRge6WuVclR3ipfES0JWGvZZrSGqm9Gkc&wasReauthorized=true)
 
 ---
 
